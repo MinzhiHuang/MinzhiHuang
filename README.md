@@ -1,4 +1,4 @@
-# 🍀 Hi, I am Minzhi (Chloe)! 
+# Hi, I am Minzhi (Chloe)! 🍀 
 [![Github](https://img.shields.io/badge/GitHub-MinzhiHuang-100000?style=flat&logo=github&logoColor=white)](https://github.com/MinzhiHuang)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Minzhi%20Huang-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minzhih/)
 [![Gmail](https://img.shields.io/badge/Gmail-huangminzxx@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huangminzxx@gmail.com)
