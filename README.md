@@ -18,3 +18,6 @@ Advanced imputation techniques for download speed data using GBM and MICE algori
 
 🧬 **[BioLaySumm - COLX 531 Team Project](https://github.com/MinzhiHuang/BioLaySumm)**  
 NLP for biomedical text summarization (Team Collaboration).
+
+## 📖 Certification Preparation
+SnowPro® Core | Microsoft Certified: Power BI Data Analyst Associate
