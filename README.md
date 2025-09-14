@@ -8,7 +8,7 @@ Welcome to my Github page and I am happy to meet you! :) I am a graduate from [U
 After graduation, I joined [Deepcoin](https://www.deepcoin.com/) as an AI Engineer, where I work on cutting edge AI solutions for cryptocurrency trading platforms. During my time at SFU, I gained valuable experience through three impactful internships: Data Management & Analyst at [Center for Heart Lung Innovation](https://www.hli.ubc.ca/), Research Analyst at [Surrey Schools](https://www.surreyschools.ca/), and Research Assistant at [Simon Fraser University](https://www.sfu.ca/stat-actsci/undergraduate/all-undergrad/research/USRA-projects/USRA-2022/project-Stenning.html) - each contributing to my expertise in data science, statistical analysis, and AI applications.
 
 ## 🔥 Projects
-I am currently working on exciting side projects focused on my career transition, which will be presented very soon! In the meantime, feel free to explore some of my previous work:
+I am currently working on exciting PowerBI side projects focused on my career transition, which will be presented very soon! In the meantime, feel free to explore some of my previous work:
 
 📊 **[Surrey Schools Work Project](https://github.com/MinzhiHuang/Minzhi-Surrey-School-Report)**  
 Educational data analysis and reporting solutions.
@@ -19,5 +19,4 @@ Advanced imputation techniques for download speed data using GBM and MICE algori
 🧬 **[BioLaySumm - COLX 531 Team Project](https://github.com/MinzhiHuang/BioLaySumm)**  
 NLP for biomedical text summarization (Team Collaboration).
 
-## 📖 Certification Preparation
-SnowPro® Core | Microsoft Certified: Power BI Data Analyst Associate
+
