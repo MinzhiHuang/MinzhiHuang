@@ -7,6 +7,8 @@ Welcome to my Github page and I am happy to meet you! :) I am a graduate from [U
 
 After graduation, I joined [Deepcoin](https://www.deepcoin.com/) as an AI Engineer, where I work on cutting edge AI solutions for cryptocurrency trading platforms. During my time at SFU, I gained valuable experience through three impactful internships: Data Management & Analyst at [Center for Heart Lung Innovation](https://www.hli.ubc.ca/), Research Analyst at [Surrey Schools](https://www.surreyschools.ca/), and Research Assistant at [Simon Fraser University](https://www.sfu.ca/stat-actsci/undergraduate/all-undergrad/research/USRA-projects/USRA-2022/project-Stenning.html) - each contributing to my expertise in data science, statistical analysis, and AI applications.
 
+Personal Website: [https://minzhihuang.github.io/](https://minzhihuang.github.io/).
+
 ## 🔥 Projects
 I am currently working on exciting PowerBI side projects focused on my career transition, which will be presented very soon! In the meantime, feel free to explore some of my previous work:
 
