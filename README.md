@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Minzhi%20Huang-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minzhih/)
 [![Gmail](https://img.shields.io/badge/Gmail-huangminzxx@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:huangminzxx@gmail.com)
 
-Welcome to my Github page and I am happy to meet you! :) I am a graduate from [UBC Master of Data Science in Computational Linguistics with an A](https://masterdatascience.ubc.ca/programs/computational-linguistics), with an undergraduate degree in [Statistics from SFU](https://www.sfu.ca/students/calendar/2025/spring/courses/stat.html).
+Welcome to my Github page and I am happy to meet you! :) I am a graduate from [UBC Master of Data Science in Computational Linguistics](https://masterdatascience.ubc.ca/programs/computational-linguistics), with an undergraduate degree in [Statistics from SFU](https://www.sfu.ca/students/calendar/2025/spring/courses/stat.html).
 
 After graduation, I joined [Deepcoin](https://www.deepcoin.com/) as an AI Engineer, where I work on cutting edge AI solutions for cryptocurrency trading platforms. During my time at SFU, I gained valuable experience through three impactful internships: Data Management & Analyst at [Center for Heart Lung Innovation](https://www.hli.ubc.ca/), Research Analyst at [Surrey Schools](https://www.surreyschools.ca/), and Research Assistant at [Simon Fraser University](https://www.sfu.ca/stat-actsci/undergraduate/all-undergrad/research/USRA-projects/USRA-2022/project-Stenning.html) - each contributing to my expertise in data science, statistical analysis, and AI applications.
 
@@ -22,3 +22,20 @@ Advanced imputation techniques for download speed data using GBM and MICE algori
 NLP for biomedical text summarization (Team Collaboration).
 
 
+## 🎓 Academic Background
+
+### Graduate Studies - UBC MDS Computational Linguistics
+![COLX 521](https://img.shields.io/badge/COLX%20521-Phonology%20&%20Morphology-4285F4?style=flat&logo=google-scholar&logoColor=white)
+![COLX 531](https://img.shields.io/badge/COLX%20531-Text%20&%20Discourse%20Analysis-4285F4?style=flat&logo=google-scholar&logoColor=white)
+![DSCI 573](https://img.shields.io/badge/DSCI%20573-Feature%20&%20Model%20Selection-FF6B6B?style=flat&logo=tensorflow&logoColor=white)
+![DSCI 563](https://img.shields.io/badge/DSCI%20563-Unsupervised%20Learning-FF6B6B?style=flat&logo=tensorflow&logoColor=white)
+![DSCI 571](https://img.shields.io/badge/DSCI%20571-Supervised%20Learning%20I-FF6B6B?style=flat&logo=scikit-learn&logoColor=white)
+![DSCI 572](https://img.shields.io/badge/DSCI%20572-Supervised%20Learning%20II-FF6B6B?style=flat&logo=scikit-learn&logoColor=white)
+
+### Undergraduate Studies - SFU Statistics
+![STAT 440](https://img.shields.io/badge/STAT%20440-Learning%20from%20Big%20Data-20B2AA?style=flat&logo=apache-spark&logoColor=white)
+![STAT 430](https://img.shields.io/badge/STAT%20430-Statistical%20Design%20&%20Analysis-20B2AA?style=flat&logo=r-project&logoColor=white)
+![STAT 350](https://img.shields.io/badge/STAT%20350-Bayesian%20Statistics-20B2AA?style=flat&logo=r-project&logoColor=white)
+![STAT 341](https://img.shields.io/badge/STAT%20341-Biostatistics-20B2AA?style=flat&logo=r-project&logoColor=white)
+![STAT 285](https://img.shields.io/badge/STAT%20285-Intermediate%20Probability-9370DB?style=flat&logo=wolfram&logoColor=white)
+![STAT 270](https://img.shields.io/badge/STAT%20270-Introduction%20to%20Probability-9370DB?style=flat&logo=wolfram&logoColor=white)
