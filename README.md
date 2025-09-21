@@ -32,7 +32,7 @@ NLP for biomedical text summarization (Team Collaboration).
 ![DSCI 571](https://img.shields.io/badge/DSCI%20571-Supervised%20Learning%20I-FF6B6B?style=flat&logo=scikit-learn&logoColor=white)
 ![DSCI 572](https://img.shields.io/badge/DSCI%20572-Supervised%20Learning%20II-FF6B6B?style=flat&logo=scikit-learn&logoColor=white)
 
-### Undergraduate Studies - SFU Statistics
+### Undergraduate Studies - SFU Statistics with Co-op Education
 ![STAT 440](https://img.shields.io/badge/STAT%20440-Learning%20from%20Big%20Data-20B2AA?style=flat&logo=apache-spark&logoColor=white)
 ![STAT 430](https://img.shields.io/badge/STAT%20430-Statistical%20Design%20&%20Analysis-20B2AA?style=flat&logo=r-project&logoColor=white)
 ![STAT 350](https://img.shields.io/badge/STAT%20350-Bayesian%20Statistics-20B2AA?style=flat&logo=r-project&logoColor=white)
