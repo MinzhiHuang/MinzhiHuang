@@ -34,9 +34,12 @@ NLP for biomedical text summarization (Team Collaboration).
 ![DSCI 525](https://img.shields.io/badge/DSCI%20525-Web%20and%20Cloud%20Computing-9932CC?style=flat&logo=amazonwebservices&logoColor=white)
 
 ### Undergraduate Studies - SFU Statistics with Co-op Education
+![CMPT 354](https://img.shields.io/badge/CMPT%20354-Database%20Systems-32CD32?style=flat&logo=postgresql&logoColor=white) (Data Model)
+![CMPT 353](https://img.shields.io/badge/CMPT%20353-Computational%20Data%20Science-FF8C00?style=flat&logo=python&logoColor=white)
 ![STAT 440](https://img.shields.io/badge/STAT%20440-Learning%20from%20Big%20Data-20B2AA?style=flat&logo=apache-spark&logoColor=white)
-![STAT 430](https://img.shields.io/badge/STAT%20430-Statistical%20Design%20&%20Analysis-20B2AA?style=flat&logo=r-project&logoColor=white)
-![STAT 350](https://img.shields.io/badge/STAT%20350-Bayesian%20Statistics-20B2AA?style=flat&logo=r-project&logoColor=white)
-![STAT 341](https://img.shields.io/badge/STAT%20341-Biostatistics-20B2AA?style=flat&logo=r-project&logoColor=white)
-![STAT 285](https://img.shields.io/badge/STAT%20285-Intermediate%20Probability-9370DB?style=flat&logo=wolfram&logoColor=white)
-![STAT 270](https://img.shields.io/badge/STAT%20270-Introduction%20to%20Probability-9370DB?style=flat&logo=wolfram&logoColor=white)
+![STAT 430](https://img.shields.io/badge/STAT%20430-Statistical%20Design%20&%20Analysis%20of%20Experiments-20B2AA?style=flat&logo=r-project&logoColor=white)
+![STAT 450](https://img.shields.io/badge/STAT%20450-Statistical%20Theory-20B2AA?style=flat&logo=r-project&logoColor=white)
+![STAT 452](https://img.shields.io/badge/STAT%20452-Machine%20Learning-FF6B6B?style=flat&logo=scikit-learn&logoColor=white)
+![STAT 460](https://img.shields.io/badge/STAT%20460-Bayesian%20Statistics-20B2AA?style=flat&logo=r-project&logoColor=white)
+![STAT 485](https://img.shields.io/badge/STAT%20485-Applied%20Time%20Series%20Analysis-20B2AA?style=flat&logo=r-project&logoColor=white)
+
