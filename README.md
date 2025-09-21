@@ -27,10 +27,15 @@ NLP for biomedical text summarization (Team Collaboration).
 ### Graduate Studies - UBC MDS Computational Linguistics
 ![COLX 521](https://img.shields.io/badge/COLX%20521-Phonology%20&%20Morphology-4285F4?style=flat&logo=google-scholar&logoColor=white)
 ![COLX 531](https://img.shields.io/badge/COLX%20531-Text%20&%20Discourse%20Analysis-4285F4?style=flat&logo=google-scholar&logoColor=white)
+![COLX 585](https://img.shields.io/badge/COLX%20585-Trends%20in%20Natural%20Language%20Processing-4285F4?style=flat&logo=google-scholar&logoColor=white)
+![COLX 565](https://img.shields.io/badge/COLX%20565-Sentiment%20Analysis-4285F4?style=flat&logo=google-scholar&logoColor=white)
 ![DSCI 573](https://img.shields.io/badge/DSCI%20573-Feature%20&%20Model%20Selection-FF6B6B?style=flat&logo=tensorflow&logoColor=white)
 ![DSCI 563](https://img.shields.io/badge/DSCI%20563-Unsupervised%20Learning-FF6B6B?style=flat&logo=tensorflow&logoColor=white)
-![DSCI 571](https://img.shields.io/badge/DSCI%20571-Supervised%20Learning%20I-FF6B6B?style=flat&logo=scikit-learn&logoColor=white)
 ![DSCI 572](https://img.shields.io/badge/DSCI%20572-Supervised%20Learning%20II-FF6B6B?style=flat&logo=scikit-learn&logoColor=white)
+![DSCI 571](https://img.shields.io/badge/DSCI%20571-Supervised%20Learning%20I-FF6B6B?style=flat&logo=scikit-learn&logoColor=white)
+![DSCI 513](https://img.shields.io/badge/DSCI%20513-Databases%20&%20Data%20Retrieval-32CD32?style=flat&logo=postgresql&logoColor=white)
+![DSCI 531](https://img.shields.io/badge/DSCI%20531-Data%20Visualization%20I-FF8C00?style=flat&logo=plotly&logoColor=white)
+![DSCI 525](https://img.shields.io/badge/DSCI%20525-Web%20and%20Cloud%20Computing-9932CC?style=flat&logo=amazonwebservices&logoColor=white)
 
 ### Undergraduate Studies - SFU Statistics with Co-op Education
 ![STAT 440](https://img.shields.io/badge/STAT%20440-Learning%20from%20Big%20Data-20B2AA?style=flat&logo=apache-spark&logoColor=white)
