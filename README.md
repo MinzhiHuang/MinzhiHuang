@@ -23,7 +23,6 @@ NLP for biomedical text summarization (Team Collaboration).
 
 
 ## 🎓 Academic Background
-
 ### Graduate Studies - UBC MDS Computational Linguistics
 ![COLX 585](https://img.shields.io/badge/COLX%20585-Trends%20in%20Natural%20Language%20Processing-4285F4?style=flat&logo=google-scholar&logoColor=white)
 ![COLX 565](https://img.shields.io/badge/COLX%20565-Sentiment%20Analysis-4285F4?style=flat&logo=google-scholar&logoColor=white)
