@@ -22,8 +22,8 @@ Advanced imputation techniques for download speed data using GBM and MICE algori
 NLP for biomedical text summarization (Team Collaboration).
 
 
-## 🎓 Academic Background
-### Graduate Studies - UBC MDS Computational Linguistics
+## 🎓 Academic Coursework
+### Graduate Studies 
 ![COLX 585](https://img.shields.io/badge/COLX%20585-Trends%20in%20Natural%20Language%20Processing-4285F4?style=flat&logo=google-scholar&logoColor=white)
 ![COLX 565](https://img.shields.io/badge/COLX%20565-Sentiment%20Analysis-4285F4?style=flat&logo=google-scholar&logoColor=white)
 ![DSCI 573](https://img.shields.io/badge/DSCI%20573-Feature%20&%20Model%20Selection-FF6B6B?style=flat&logo=tensorflow&logoColor=white)
@@ -33,7 +33,7 @@ NLP for biomedical text summarization (Team Collaboration).
 ![DSCI 531](https://img.shields.io/badge/DSCI%20531-Data%20Visualization%20I-FF8C00?style=flat&logo=plotly&logoColor=white)
 ![DSCI 525](https://img.shields.io/badge/DSCI%20525-Web%20and%20Cloud%20Computing-9932CC?style=flat&logo=amazonwebservices&logoColor=white)
 
-### Undergraduate Studies - SFU Statistics with Co-op Education
+### Undergraduate Studies
 ![STAT 440](https://img.shields.io/badge/STAT%20440-Learning%20from%20Big%20Data-20B2AA?style=flat&logo=apache-spark&logoColor=white)
 ![STAT 452](https://img.shields.io/badge/STAT%20452-Machine%20Learning-FF6B6B?style=flat&logo=scikit-learn&logoColor=white)
 ![STAT 430](https://img.shields.io/badge/STAT%20430-Statistical%20Design%20&%20Analysis%20of%20Experiments-20B2AA?style=flat&logo=r-project&logoColor=white)
